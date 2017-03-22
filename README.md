@@ -1,0 +1,2 @@
+# LemonScissors4Android
+小学，我们美术课上学习剪纸，用来剪图片的那把可爱的小剪刀如今可以拿到Android上来啦，柠檬小剪刀（LemonScissors）图片剪裁第三方即将来临😀
