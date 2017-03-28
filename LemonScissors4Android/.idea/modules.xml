@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LemonScissors4Android.iml" filepath="$PROJECT_DIR$/LemonScissors4Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LemonScissorsSample/LemonScissorsSample.iml" filepath="$PROJECT_DIR$/LemonScissorsSample/LemonScissorsSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lemon-scissors/lemon-scissors.iml" filepath="$PROJECT_DIR$/lemon-scissors/lemon-scissors.iml" />
+    </modules>
+  </component>
+</project>
